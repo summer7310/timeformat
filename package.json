@@ -1,0 +1,22 @@
+{
+  "name": "timeformatutil",
+  "version": "0.0.1",
+  "description": "this is a timeformat module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summer7310/timeformat.git"
+  },
+  "keywords": [
+    "timeformat"
+  ],
+  "author": "summer7310",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summer7310/timeformat/issues"
+  },
+  "homepage": "https://github.com/summer7310/timeformat#readme"
+}
